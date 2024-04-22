@@ -9,6 +9,11 @@ A simple to do list app.
 
 ## Getting Started
 
+Install React and Next along with dependencies.\
+CMD:- ```npx create-next-app```\
+Give name to folder ----> Select required dependencies and enter.\
+Next will create a folder with required dependencies which can be checked in __package.json__ file.
+
 First, run the development server:
 
 ```bash
